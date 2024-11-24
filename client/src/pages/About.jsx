@@ -4,10 +4,15 @@ export default function About() {
   return (
     <div className="py-20 px-4 max-w-6xl mx-auto">
       <h1 className="text-3xl font-bold mb-4 text-slate-800">
-        About Shariq Estate
+        About Prestige Enclave
       </h1>
       <p className="mb-4 text-slate-700">
-        Shariq Estate is a leading real estate agency that specializes in
+       Welcome to Prestige Enclave, where your property dreams take shape! From elegant homes to prime commercial spaces, we specialize in connecting you with real estate options that match your vision.
+
+At Prestige Enclave, we prioritize transparency, trust, and a seamless experience for buyers, sellers, and renters. Our platform combines advanced technology with a user-friendly interface to simplify every step of your real estate journey.
+      </p>
+      <p className="mb-4 text-slate-700">
+        Prestige Enclave is a leading real estate agency that specializes in
         helping clients buy, sell, and rent properties in the most desirable
         neighborhoods. Our team of experienced agents is dedicated to providing
         exceptional service and making the buying and selling process as smooth
