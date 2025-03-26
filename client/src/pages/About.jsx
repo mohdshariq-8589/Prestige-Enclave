@@ -7,9 +7,13 @@ export default function About() {
         About Prestige Enclave
       </h1>
       <p className="mb-4 text-slate-700">
-       Welcome to Prestige Enclave, where your property dreams take shape! From elegant homes to prime commercial spaces, we specialize in connecting you with real estate options that match your vision.
-
-At Prestige Enclave, we prioritize transparency, trust, and a seamless experience for buyers, sellers, and renters. Our platform combines advanced technology with a user-friendly interface to simplify every step of your real estate journey.
+        Welcome to Prestige Enclave, where your property dreams take shape! From
+        elegant homes to prime commercial spaces, we specialize in connecting
+        you with real estate options that match your vision. At Prestige
+        Enclave, we prioritize transparency, trust, and a seamless experience
+        for buyers, sellers, and renters. Our platform combines advanced
+        technology with a user-friendly interface to simplify every step of your
+        real estate journey.
       </p>
       <p className="mb-4 text-slate-700">
         Prestige Enclave is a leading real estate agency that specializes in
