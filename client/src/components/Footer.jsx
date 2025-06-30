@@ -36,7 +36,7 @@ export default function Footer() {
                 <div>
                     <h2 className="text-lg font-semibold mb-3">Follow Us</h2>
                     <div className="flex space-x-4">
-                        <Link to="https://github.com/mohdsha-123" className="text-gray-400 hover:text-blue-400 text-xl"><FaGithub /></Link>
+                        <Link to="https://github.com/mohdshariq-8589" className="text-gray-400 hover:text-blue-400 text-xl"><FaGithub /></Link>
                         <Link to="#" className="text-gray-400 hover:text-blue-400 text-xl"><FaTwitter /></Link>
                         <Link to="https://www.instagram.com/_shariq______/?hl=en" className="text-gray-400 hover:text-blue-400 text-xl"><FaInstagram /></Link>
                         <Link to="https://www.linkedin.com/in/mohdshariq01/" className="text-gray-400 hover:text-blue-400 text-xl"><FaLinkedin /></Link>
